@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>web dari kelompok5</title>
-</head>
 <frameset rows="25%,50%,25%" border=0>
 	<frame src="judul.html"/>
 		<frameset cols="30%,70%">
