@@ -4,7 +4,6 @@
 		<frameset cols="30%,70%">
 		<frame src="menu.html">
 		<frame src="menusamping.html" name="tampilan"/>
-		</frameset>
 			<frameset cols="100%" />
 		<frame src="namamahasiswa.html" />
 </frameset>
